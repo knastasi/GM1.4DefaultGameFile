@@ -27,7 +27,8 @@
     <objects name="helper">
       <object>objects\obj_wall</object>
       <object>objects\obj_view</object>
-      <object>objects\obj_parentcollisons</object>
+      <object>objects\obj_parent</object>
+      <object>objects\obj_extra</object>
     </objects>
   </objects>
   <rooms name="rooms">
