@@ -4,7 +4,7 @@ left_key = keyboard_check(vk_left);
 up_key = keyboard_check(vk_up);
 down_key = keyboard_check(vk_down);
 
-if (instance_exists(obj_dialog)) {
+/*if (instance_exists(obj_dialog)) {
     right_key = 0;
     left_key = 0;
     up_key = 0;
@@ -16,4 +16,4 @@ if (instance_exists(obj_dialog)) {
     up_key = keyboard_check(vk_up);
     down_key = keyboard_check(vk_down);
     }
-
+*/
